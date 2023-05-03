@@ -1,0 +1,13 @@
+h1{
+	color:blue;
+	font-size:400%;
+	text-align:center;
+	font-family:Times New Roman;
+}
+pre
+{	font-size:175%;
+	text-align:left;
+	border: 2px solid red;
+	padding:20px;
+	font-family:Times New Roman;
+}
