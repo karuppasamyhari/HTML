@@ -1,0 +1,13 @@
+body{
+	background-color:white;
+}
+h1{
+	color:blue;
+	font-family:Arial;
+	text-align:center;
+	background-color:yellow;
+}
+p{
+	color:red;
+	border:2px solid green;
+}
